@@ -1,56 +1,54 @@
-# Hi, I'm George Machado 👋
+<h1 align="center">George Machado</h1>
 
-Fullstack Developer focused on web applications, automation and AI integration.
+<p align="center">
+Fullstack Developer · Laravel · Python · AI Integration
+</p>
 
-Currently working with:
-- Laravel
-- PHP
-- Python
-- JavaScript
+<p align="center">
+<a href="https://github.com/GeorgeLuisMoraes">GitHub</a> •
+<a href="mailto:georgeluismoraes@gmail.com">Email</a>
+</p>
+
+---
+
+## About Me
+
+Backend-focused developer with experience building fullstack web applications using Laravel, PHP, Python and JavaScript.
+
+Currently working on systems involving:
+- AI integration
+- audio transcription
 - REST APIs
-- Linux
-- FastAPI
-- MySQL
+- automation workflows
+- Linux server environments
 
-## 🚀 Experience
+Interested in backend architecture, scalable systems and AI-powered applications.
 
-Experience developing web applications involving:
-- fullstack systems
-- process automation
+---
+
+## Tech Stack
+
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Current Focus
+
+- Backend architecture
 - API integrations
-- audio processing
-- artificial intelligence
-- automatic transcription using Whisper AI
-
-## 🛠 Technologies
-
-### Front-end
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- React
-
-### Back-end
-- Laravel
-- PHP
-- Python
-- FastAPI
-
-### Database
-- MySQL
-
-### Tools
-- Git
-- GitHub
-- Linux
-
-## 📚 Currently Learning
-- Software Architecture
-- Application Scalability
-- AI integration in web applications
-
-## 📫 Contact
-
-- Email: georgeluismoraes@gmail.com
-- GitHub: github.com/GeorgeLuisMoraes
+- AI-powered applications
+- Automation systems
+- Fullstack development
