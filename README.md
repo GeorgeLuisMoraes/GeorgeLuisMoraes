@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm George Machado 👋
 
-<!--
-**GeorgeLuisMoraes/GeorgeLuisMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer focused on web applications, automation and AI integration.
 
-Here are some ideas to get you started:
+Currently working with:
+- Laravel
+- PHP
+- Python
+- JavaScript
+- REST APIs
+- Linux
+- FastAPI
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Experience
+
+Experience developing web applications involving:
+- fullstack systems
+- process automation
+- API integrations
+- audio processing
+- artificial intelligence
+- automatic transcription using Whisper AI
+
+## 🛠 Technologies
+
+### Front-end
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React
+
+### Back-end
+- Laravel
+- PHP
+- Python
+- FastAPI
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Linux
+
+## 📚 Currently Learning
+- Software Architecture
+- Application Scalability
+- AI integration in web applications
+
+## 📫 Contact
+
+- Email: georgeluismoraes@gmail.com
+- GitHub: github.com/GeorgeLuisMoraes
